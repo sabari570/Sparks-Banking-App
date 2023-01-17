@@ -1,5 +1,5 @@
 # Banking App
-### TASK 1: Banking System App 
+### TASK 2: Banking System App 
 
 Stack: Web and Mobile App Development
 
