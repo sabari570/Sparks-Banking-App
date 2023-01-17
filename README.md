@@ -3,7 +3,7 @@
 
 Stack: Web and Mobile App Development
 
-The Sparks Foundation tasks for GRIPDECEMBER2022  
+The Sparks Foundation tasks for #GRIPJANUARY23  
 
 #### Aim: 
 
